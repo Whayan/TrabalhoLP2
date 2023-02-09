@@ -1,0 +1,28 @@
+{
+  "Automoveis": [
+    {
+      "id": 1,
+      "Placa": "LOLOLOL",
+      "Modelo": "corsa",
+      "Marca": "BMW"
+    },
+    {
+      "id": 2,
+      "Placa": "HAHAHA",
+      "Modelo": "corsa",
+      "Marca": "Audi"
+    },
+    {
+      "id": 3,
+      "Placa": "KKKKKK",
+      "Modelo": "corsa",
+      "Marca": "BYD"
+    },
+    {
+      "id": 4,
+      "Placa": "RSRSRS",
+      "Modelo": "corsa",
+      "Marca": "Chevrolet"
+    }
+  ]
+}
