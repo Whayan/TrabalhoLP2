@@ -12,7 +12,7 @@ const Form = () => {
   const navigate = useNavigate();
 
   const handleNavigate = () => {
-    navigate('/Form')
+    navigate('/')
  }
 const handleSubmit = () =>{  
 const data = {placa: placa, modelo: modelo, marca:marca}

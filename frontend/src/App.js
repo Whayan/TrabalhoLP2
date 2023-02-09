@@ -10,7 +10,7 @@ function App() {
       <BrowserRouter>
       <Routes>
         <Route path='/' element = {<List/>}/>
-        <Route path='/form' element ={<Form/>}/>
+        <Route path='/Form' element ={<Form/>}/>
       </Routes>
       </BrowserRouter>
     </div>
